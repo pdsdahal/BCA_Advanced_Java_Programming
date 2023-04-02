@@ -1,4 +1,4 @@
-package com.swing.class3;
+package com.swing.class3.swingcomponents;
 
 import javax.swing.JFrame;
 import javax.swing.JMenu;

@@ -1,4 +1,4 @@
-package com.swing.class2;
+package com.swing.class2.swingcomponent;
 
 import javax.swing.*;
 

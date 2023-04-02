@@ -1,4 +1,4 @@
-package com.swing.classs1;
+package com.swing.classs1.jframecreation;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;

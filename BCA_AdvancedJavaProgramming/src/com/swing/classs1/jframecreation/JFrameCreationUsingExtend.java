@@ -1,4 +1,4 @@
-package com.swing.classs1;
+package com.swing.classs1.jframecreation;
 
 import java.awt.Color;
 import java.awt.Container;
