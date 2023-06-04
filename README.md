@@ -13,3 +13,7 @@ BCA - Advanced Java Programming
 [Unit 2 : Database Programming](https://github.com/pdsdahal/BCA_Advanced_Java_Programming/blob/main/BCA_AdvancedJavaProgramming/Advanced%20Java%20Material/Assignments/Database%20Programming%20Assignment.pdf)
 
 [Unit 3 : JavaBeans](https://github.com/pdsdahal/BCA_Advanced_Java_Programming/blob/main/BCA_AdvancedJavaProgramming/Advanced%20Java%20Material/Assignments/JavaBeans%20Assignment.pdf)
+
+[Unit 4 : Servlet and JSP](https://github.com/pdsdahal/BCA_Advanced_Java_Programming/blob/main/BCA_AdvancedJavaProgramming/Advanced%20Java%20Material/Assignments/ServletAndJSP%20Assignmnet.pdf)
+
+[Unit 5 : RMI](https://github.com/pdsdahal/BCA_Advanced_Java_Programming/blob/main/BCA_AdvancedJavaProgramming/Advanced%20Java%20Material/Assignments/RMI%20Assignment.pdf)
